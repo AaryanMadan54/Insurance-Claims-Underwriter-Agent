@@ -1,0 +1,630 @@
+COMPREHENSIVE HEALTH INSURANCE POLICY MANUAL
+2026 Edition
+
+================================================================================
+SECTION 1: HEALTH INSURANCE POLICIES
+================================================================================
+
+1.1 BRONZE HEALTH PLAN (Policy Type: HEALTH-BRONZE)
+Policy Effective Date: January 1, 2026
+
+SECTION 1.1.1: COVERAGE LIMITS
+Page: 2
+
+Annual Deductible (Individual): $6,000
+Annual Deductible (Family): $12,000
+Out-of-Pocket Maximum (Individual): $9,000
+Out-of-Pocket Maximum (Family): $18,000
+Annual Maximum Benefit: UNLIMITED (ACA compliant)
+Lifetime Maximum: UNLIMITED (ACA compliant)
+
+SECTION 1.1.2: PRIMARY CARE SERVICES - COVERED
+Page: 3
+
+Primary Care Visit: $50 copay after deductible
+- Includes: General consultations, check-ups, physical examinations
+- Coverage: IN-NETWORK ONLY
+- Authorization Required: No, not required for primary care
+- Visit Frequency: Unlimited after deductible paid
+- Covered Service: YES - Essential Health Benefit
+- Status: AUTOMATICALLY APPROVED for amounts under $5,000
+
+General Consultation with Primary Care Physician:
+- CPT Code: 99213 (Established Patient)
+- CPT Code: 99203 (New Patient)
+- Coverage Status: COVERED at $50 copay
+- Deductible Applies: Yes
+- Pre-Authorization Required: NO
+- Approval: AUTOMATIC APPROVAL
+- Expected Processing: Same day
+
+SECTION 1.1.3: SPECIALIST SERVICES - COVERED
+Page: 4
+
+Specialist Visit: $80 copay after deductible
+- Includes: Cardiologist, Orthopedist, Dermatologist, Neurologist, etc.
+- Coverage: IN-NETWORK ONLY
+- Referral Required: Yes, from Primary Care
+- Authorization Required: No for office visits
+- Covered Service: YES
+- Status: AUTOMATICALLY APPROVED
+
+SECTION 1.1.4: IMAGING AND DIAGNOSTIC SERVICES - COVERED
+Page: 5
+
+X-rays/Imaging: 40% coinsurance after deductible
+- CPT Codes: 70000-79999 (Radiology procedures)
+- Coverage Status: COVERED
+- Pre-Authorization Required: YES for MRI/CT/PET
+- Pre-Authorization NOT Required: Simple X-rays, basic ultrasound
+- Approval Status: AUTO-APPROVE for routine imaging under $5,000
+
+MRI/CT/PET Scans:
+- Coverage Status: COVERED
+- Coinsurance: 40% after deductible
+- Pre-Authorization Required: MANDATORY - Must obtain before service
+- Authorization Process: Contact insurer 5-7 business days before procedure
+- Failure to Authorize: Claim may be denied
+- Approval for Routine Scans: Automatic if properly authorized, under $5,000
+
+SECTION 1.1.5: LABORATORY AND PATHOLOGY SERVICES - COVERED
+Page: 6
+
+Lab Tests: 40% coinsurance after deductible
+- CPT Codes: 80000-89999 (Laboratory procedures)
+- Coverage Status: COVERED
+- Pre-Authorization Required: NO
+- In-Network Required: YES
+- Approval Status: AUTOMATIC APPROVAL for amounts under $5,000
+- Common Tests: Blood work, urinalysis, pathology, genetic testing
+
+SECTION 1.1.6: PRESCRIPTION DRUG COVERAGE - COVERED
+Page: 7
+
+Generic Prescription Drugs: $15 copay
+- Coverage Status: COVERED when on formulary
+- Pre-Authorization Required: No for most generic drugs
+- Approval Status: AUTOMATIC APPROVAL
+- Step Therapy: May apply for certain medications
+- Approval: Same day at pharmacy
+
+Preferred Brand Drugs: $50 copay
+- Coverage Status: COVERED
+- Approval Status: AUTOMATIC APPROVAL
+- Pre-Authorization: May be required for non-formulary
+
+Non-Preferred Brand Drugs: $90 copay
+- Coverage Status: COVERED
+- Approval Status: REQUIRES PRIOR AUTHORIZATION
+- Documentation Needed: Medical necessity statement from provider
+
+Specialty Drugs: 40% coinsurance (max $250)
+- Coverage Status: COVERED
+- Approval Status: REQUIRES PRIOR AUTHORIZATION
+- Expected Approval Time: 24-48 hours
+- Maximum Patient Cost: $250 per claim
+
+SECTION 1.1.7: EMERGENCY SERVICES - COVERED
+Page: 8
+
+Emergency Room Visit: $500 copay, then 40% coinsurance
+- Coverage Status: COVERED
+- In-Network Required: NO - Covered in or out of network
+- Pre-Authorization Required: NO
+- Approval Status: AUTOMATIC APPROVAL
+- Scope: Emergency stabilization and life-threatening conditions
+- Examples: Chest pain, severe injuries, loss of consciousness
+
+Urgent Care Visit: $75 copay
+- Coverage Status: COVERED
+- Pre-Authorization Required: NO
+- Approval Status: AUTOMATIC APPROVAL
+- In-Network Required: YES (except emergencies)
+- Expected Approval: Immediate
+
+SECTION 1.1.8: MENTAL HEALTH AND BEHAVIORAL SERVICES - COVERED
+Page: 9
+
+Mental Health Services: Subject to deductible and coinsurance
+- Coverage Status: COVERED
+- Coverage Limit: No visit limit specified
+- Pre-Authorization Required: NO for office visits
+- Approval Status: AUTOMATIC APPROVAL for standard therapy
+- In-Network Required: YES
+- Scope: Psychiatry, psychology, counseling services
+- CPT Codes: 90834-90838 (Psychotherapy codes)
+- Copay: Generally $50-80 depending on provider
+
+SECTION 1.1.9: PREVENTIVE CARE SERVICES - COVERED AT 100%
+Page: 10
+
+Preventive Care Services: 100% covered (no deductible)
+- Annual Physical Examination: FREE
+- Immunizations and Vaccinations: FREE
+- Cancer Screenings: FREE
+- Mammogram
+- Colonoscopy  
+- Cervical cancer screening (Pap smear)
+- Prostate screening
+
+SECTION 1.1.10: REHABILITATION SERVICES - COVERED
+Page: 11
+
+Rehabilitative Services: 40% coinsurance after deductible
+- Coverage Limit: 60 visits per year
+- Coverage Status: COVERED
+- Pre-Authorization Required: YES for therapy beyond 12 visits
+- Approval Status: AUTOMATIC for first 12 visits under $5,000
+- Physical Therapy: Included
+- Occupational Therapy: Included
+- Speech Therapy: Included
+
+SECTION 1.1.11: EXCLUSIONS AND NON-COVERED SERVICES
+Page: 12
+
+The following services are NOT covered under the Bronze Plan:
+
+Cosmetic Surgery (except reconstructive after accident/illness)
+- Coverage Status: NOT COVERED
+- Exception: Reconstructive surgery for accident or illness
+
+Experimental or Investigational Treatments
+- Coverage Status: NOT COVERED
+- Approval Status: DENIAL
+- Exception: May be covered under clinical trial provisions
+
+Fertility Treatments and IVF
+- Coverage Status: NOT COVERED
+- Approval Status: DENIAL
+- Limited Exception: Fertility consultation only (see Gold Plan)
+
+Weight Loss Surgery (Bariatric)
+- Coverage Status: NOT COVERED unless medically necessary
+- Approval Status: REQUIRES MANAGEMENT APPROVAL if claimed as medically necessary
+- Documentation: Must include BMI, medical necessity from physician
+
+Dental Care
+- Coverage Status: NOT COVERED (except accident-related emergency)
+- Approval Status: DENIAL
+- Exception: Emergency dental trauma from accident
+
+Vision Care
+- Coverage Status: NOT COVERED (except pediatric under 19 years)
+- Approval Status: DENIAL
+- Exception: Pediatric vision coverage included
+
+Hearing Aids
+- Coverage Status: NOT COVERED
+- Approval Status: DENIAL
+
+Long-term Custodial Care
+- Coverage Status: NOT COVERED
+- Approval Status: DENIAL
+
+Services Not Medically Necessary
+- Coverage Status: NOT COVERED
+- Approval Status: DENIAL if deemed non-necessary
+
+Private Hospital Rooms
+- Coverage Status: NOT COVERED unless medically necessary
+- Approval Status: May be approved with medical necessity documentation
+
+Out-of-Network Services
+- Coverage Status: NOT COVERED except for emergencies
+- Approval Status: DENIAL unless emergency
+- Exception: Emergency stabilization covered
+
+SECTION 1.1.12: PRE-AUTHORIZATION REQUIREMENTS
+Page: 13
+
+Services Requiring Mandatory Pre-Authorization:
+
+All inpatient hospital stays (except emergency)
+- Approval Time: 5-7 business days
+- Contact: Call prior to admission
+- Document: Hospital name, admission date, length of stay, medical reason
+- Failure to Authorize: Claim may be reduced by 25%
+
+Surgery (inpatient and outpatient)
+- Approval Time: 5-10 business days
+- Document: Surgical procedure code, medical necessity
+- Failure to Authorize: Claim may be denied
+
+MRI, CT, PET Scans
+- Approval Time: 1-3 business days
+- Process: Provider usually submits request
+- Patient May Submit: Call 1-800-HEALTH-IN with prescription
+
+Physical Therapy (beyond 12 visits)
+- Approval Time: Same day for routine requests
+- Limit: First 12 visits approved automatically
+- Additional: Requires authorization for visits 13+
+
+Home Health Care
+- Approval Time: 5 business days
+- Document: Physician order, medical necessity
+- Frequency: Requires ongoing authorization
+
+Durable Medical Equipment over $500
+- Approval Time: 5 business days
+- Document: Prescription, medical necessity, cost estimate
+
+Skilled Nursing Facility
+- Approval Time: Prior to discharge
+- Document: Hospital discharge summary, physician recommendation
+
+Organ Transplants
+- Approval Time: 10-14 business days
+- Process: Requires Transplant Center authorization
+
+SECTION 1.1.13: NETWORK REQUIREMENTS AND LIMITATIONS
+Page: 14
+
+Network Required: YES
+- All services must use in-network providers
+- Exception: Emergency services (in or out of network)
+- Out-of-Network: NO COVERAGE except emergency stabilization only
+- Find Providers: Visit website or call 1-800-HEALTH-IN
+
+In-Network Provider:
+- Approval Status: STANDARD COVERAGE
+- Cost Sharing: As specified in this policy
+- No Balance Billing: Provider cannot bill for more than copay/coinsurance
+
+Out-of-Network Provider:
+- Approval Status: COVERAGE DENIED except for emergencies
+- Cost Sharing: Patient pays full cost
+- Balance Billing: Patient responsible for entire bill
+
+Emergency Out-of-Network:
+- Coverage Status: COVERED for stabilization only
+- Documentation: Proof that emergency existed and in-network not available
+- Approval: AUTOMATIC if emergency verified
+- Scope: Limited to emergency department evaluation
+
+================================================================================
+SECTION 1.2: GOLD HEALTH PLAN (Policy Type: HEALTH-GOLD)
+================================================================================
+
+1.2.1 COVERAGE LIMITS
+Page: 15
+
+Annual Deductible (Individual): $1,500
+Annual Deductible (Family): $3,000
+Out-of-Pocket Maximum (Individual): $6,000
+Out-of-Pocket Maximum (Family): $12,000
+Annual Maximum Benefit: UNLIMITED
+Lifetime Maximum: UNLIMITED
+
+SECTION 1.2.2: PRIMARY CARE SERVICES - COVERED
+Page: 16
+
+Primary Care Visit: $25 copay
+- Coverage Status: COVERED
+- Authorization Required: NO
+- Approval Status: AUTOMATIC APPROVAL
+- In-Network Required: YES
+- Frequency: Unlimited
+- General Consultation: COVERED and APPROVED AUTOMATICALLY
+
+SECTION 1.2.3: PREVENTIVE AND WELLNESS SERVICES - COVERED 100%
+Page: 17
+
+Vision Exam: 1 per year, $10 copay
+- Coverage Status: COVERED
+- Approval Status: AUTOMATIC APPROVAL
+- Frequency: Once per calendar year
+
+Dental Cleaning: 2 per year, $10 copay (basic only)
+- Coverage Status: COVERED (basic cleaning and exams only)
+- Approval Status: AUTOMATIC APPROVAL
+- Frequency: Twice per calendar year
+- Limitation: Basic cleaning/exam only, not major work
+
+Hearing Exam: 1 per year, no charge
+- Coverage Status: COVERED FREE
+- Approval Status: AUTOMATIC APPROVAL
+- Frequency: Once per calendar year
+
+Telehealth Visits: $0 copay
+- Coverage Status: COVERED
+- Approval Status: AUTOMATIC APPROVAL
+- Services: Video/phone consultations with providers
+
+================================================================================
+SECTION 2: CLAIMS PROCESSING GUIDELINES
+================================================================================
+
+SECTION 2.1: APPROVAL THRESHOLDS AND AUTOMATION
+Page: 18
+
+AUTOMATIC APPROVAL - No Human Review Required
+
+Claims meeting ALL criteria below are automatically approved:
+
+1. Claim Amount Under $5,000
+
+2. Service Type is Covered
+   - Must be explicitly listed in policy as "COVERED"
+   - Must not be in exclusion list
+   - Coverage must clearly apply (no gray areas)
+
+3. Complete Documentation
+   - Itemized bill present
+   - Provider information complete
+   - Medical codes included (CPT/ICD-10)
+
+4. Policy Status
+   - Policy active at time of service
+   - Premium current and paid
+   - Coverage date includes service date
+
+5. Fraud Indicators
+   - No fraud indicators present
+   - No duplicate billing detected
+   - Provider not under investigation
+
+6. Claim History
+   - Claimant fewer than 2 claims in past 12 months OR
+   - No prior denials for same service type
+
+7. Deductible Calculation
+   - Deductible properly applied
+   - Coinsurance correctly calculated
+
+EXAMPLE AUTOMATIC APPROVALS:
+
+General Consultation:
+- Amount: $150
+- Plan: Bronze or Gold
+- Status: COVERED per policy 1.1.2 or 1.2.2
+- Approval: AUTOMATIC at $50 (Bronze) or $25 (Gold) copay
+- Time: Same day
+- Reason: Under $5,000, covered service, no authorization needed
+
+Routine Lab Tests:
+- Amount: $300
+- Plan: Bronze
+- Status: COVERED per policy 1.1.5
+- Approval: AUTOMATIC at 40% coinsurance
+- Time: Same day
+- Reason: Under $5,000, covered service, no pre-auth required
+
+X-ray Services (Simple):
+- Amount: $400
+- Plan: Any
+- Status: COVERED per policy 1.1.4
+- Pre-Authorization: NOT required for routine X-rays
+- Approval: AUTOMATIC
+- Time: Same day
+- Reason: Under $5,000, covered routine imaging
+
+SECTION 2.2: SEMI-AUTOMATIC APPROVAL - Requires Senior Review
+
+Claims in $5,000 - $25,000 range:
+
+Claim amount between $5,000 - $25,000
+Meets coverage requirements
+Documentation complete
+No fraud indicators
+Review Time: 2-3 business days
+Decision: Usually approval if coverage clear
+
+Examples:
+- Hospital outpatient surgery ($8,000)
+- Advanced imaging with pre-auth ($12,000)
+- Extended rehabilitation course ($18,000)
+
+SECTION 2.3: MANUAL REVIEW REQUIRED - Management Approval
+
+Claims over $25,000 OR:
+
+- Multiple claims from same incident
+- Subrogation potential
+- Disputed liability
+- Pre-authorization obtained but expensive
+- Out-of-network emergency care over $10,000
+- Death or permanent disability
+- Litigation threatened
+- Media attention
+- Policy cancellation recommended
+- Coverage interpretation disputes
+
+Review Time: 5-10 business days
+
+================================================================================
+SECTION 3: SERVICE-SPECIFIC APPROVAL GUIDANCE
+================================================================================
+
+SECTION 3.1: GENERAL CONSULTATION - AUTOMATIC APPROVAL
+Page: 20
+
+Service: General Consultation with Physician
+CPT Codes: 99213 (Established), 99203 (New)
+Section Reference: 1.1.2 (Bronze) and 1.2.2 (Gold)
+
+Coverage Determination:
+
+BRONZE PLAN:
+- Coverage Status: YES - COVERED
+- Copay: $50
+- Deductible: Applies
+- Authorization: NOT REQUIRED
+- Approval Threshold: Under $5,000
+- Expected Approval: AUTOMATIC
+- Timeline: Same day
+
+GOLD PLAN:
+- Coverage Status: YES - COVERED  
+- Copay: $25
+- Deductible: Applies
+- Authorization: NOT REQUIRED
+- Approval Threshold: Under $5,000
+- Expected Approval: AUTOMATIC
+- Timeline: Same day
+
+Decision: APPROVED AUTOMATICALLY
+Reason: Service explicitly covered per policy section 1.1.2 (Bronze) and 1.2.2 (Gold)
+No pre-authorization required
+Amount under $5,000 threshold
+Service is essential health benefit
+
+Processing:
+- Same day approval
+- Copay collected at visit
+- No additional documentation needed
+- No human review required
+
+SECTION 3.2: LABORATORY TESTS - AUTOMATIC APPROVAL
+Page: 21
+
+Service: Laboratory and Pathology Services
+CPT Codes: 80000-89999
+Section Reference: 1.1.5
+
+Coverage Determination:
+- Coverage Status: YES - COVERED
+- BRONZE: 40% coinsurance after deductible
+- GOLD: May be $0 copay for certain tests
+- Authorization: NOT REQUIRED
+- Approval: AUTOMATIC for under $5,000
+
+Decision: APPROVED AUTOMATICALLY
+
+SECTION 3.3: X-RAY SERVICES - AUTOMATIC APPROVAL (with conditions)
+Page: 22
+
+Service: X-ray and Basic Imaging
+CPT Codes: 70000-71999, 73000-73999
+Section Reference: 1.1.4
+
+Routine X-rays (Simple):
+- Coverage Status: YES - COVERED
+- Pre-Authorization: NOT REQUIRED
+- Approval: AUTOMATIC
+- Timeline: Same day
+
+Advanced Imaging (MRI/CT/PET):
+- Coverage Status: YES - COVERED
+- Pre-Authorization: MANDATORY REQUIRED
+- Approval: Conditional upon authorization
+- Timeline: 1-3 business days for authorization
+
+Decision: APPROVED AUTOMATICALLY for routine X-rays
+Decision: REQUIRES PRIOR AUTHORIZATION for MRI/CT/PET
+
+SECTION 3.4: SPECIALIST REFERRALS - AUTOMATIC APPROVAL
+Page: 23
+
+Service: Specialist Office Visit
+Section Reference: 1.1.3 (Bronze: $80 copay), 1.2.3
+
+Coverage Determination:
+- Coverage Status: YES - COVERED
+- Referral: Required from Primary Care
+- Authorization: NOT REQUIRED for office visit
+- Approval: AUTOMATIC for under $5,000
+- Timeline: Same day
+
+Decision: APPROVED AUTOMATICALLY
+
+SECTION 3.5: EMERGENCY SERVICES - AUTOMATIC APPROVAL
+Page: 24
+
+Service: Emergency Department Visit
+Section Reference: 1.1.7
+
+Coverage Determination:
+- Coverage Status: YES - COVERED (In or Out of Network)
+- In-Network: $500 copay + 40% coinsurance
+- Out-of-Network: COVERED if true emergency
+- Pre-Authorization: NOT REQUIRED
+- Approval: AUTOMATIC
+- Timeline: Immediately upon presentation
+
+Decision: APPROVED AUTOMATICALLY when emergency verified
+
+SECTION 3.6: MENTAL HEALTH SERVICES - AUTOMATIC APPROVAL
+Page: 25
+
+Service: Mental Health and Behavioral Health Services
+Section Reference: 1.1.8 and 1.2.3
+
+Coverage Determination:
+- Coverage Status: YES - COVERED
+- Copay: $25-50 per visit
+- Deductible: Applies
+- Authorization: NOT REQUIRED for standard therapy
+- Approval: AUTOMATIC for under $5,000
+- Timeline: Same day
+- Frequency: Unlimited
+
+Decision: APPROVED AUTOMATICALLY
+
+SECTION 3.7: PHYSICAL THERAPY - AUTOMATIC APPROVAL (with limits)
+Page: 26
+
+Service: Physical Therapy and Rehabilitation
+Section Reference: 1.1.10
+
+Coverage Determination:
+- Coverage Status: YES - COVERED
+- First 12 Visits: AUTOMATIC APPROVAL
+- Visits 13+: REQUIRES AUTHORIZATION
+- Pre-Authorization: YES for visits beyond 12
+- Coinsurance: 40% (Bronze) or 20% (Gold)
+- Approval Timeline: Same day for first 12, 1-2 days for additional
+
+Decision: APPROVED AUTOMATICALLY for first 12 visits under $5,000
+Decision: REQUIRES AUTHORIZATION for visits 13+
+
+================================================================================
+SECTION 4: EXCLUSIONS - AUTOMATIC DENIAL
+================================================================================
+
+SECTION 4.1: NON-COVERED SERVICES - AUTOMATIC DENIAL
+Page: 27
+
+The following services result in AUTOMATIC DENIAL:
+
+Cosmetic Surgery:
+- Coverage Status: NOT COVERED
+- Approval: AUTOMATIC DENIAL
+- Exception: Reconstructive after accident/illness with documentation
+
+Experimental Treatments:
+- Coverage Status: NOT COVERED
+- Approval: AUTOMATIC DENIAL
+
+IVF and Advanced Fertility:
+- Coverage Status: NOT COVERED
+- Approval: AUTOMATIC DENIAL
+
+Weight Loss Surgery:
+- Coverage Status: NOT COVERED (unless medically necessary)
+- Approval: MANUAL REVIEW if medical necessity claimed
+
+Dental Work:
+- Coverage Status: NOT COVERED (except emergency accident-related)
+- Approval: AUTOMATIC DENIAL
+
+Vision Care:
+- Coverage Status: NOT COVERED (except pediatric)
+- Approval: AUTOMATIC DENIAL
+
+Hearing Aids:
+- Coverage Status: NOT COVERED
+- Approval: AUTOMATIC DENIAL
+
+Out-of-Network Services:
+- Coverage Status: NOT COVERED (except emergency)
+- Approval: AUTOMATIC DENIAL
+
+================================================================================
+END OF POLICY MANUAL
+================================================================================
+
+Document Version: 2026.01
+Last Updated: January 1, 2026
+Total Pages: 27
+Effective Date: All policies effective January 1, 2026
