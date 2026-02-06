@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS / misc
+Thumbs.db
+Desktop.ini
+
+# App runtime artifacts
+health-insurance-claims-agent/temp_uploaded_bill.*
+
+# Vector DB / retrieval persistence (generated locally)
+health-insurance-claims-agent/policy_db/
+health-insurance-claims-agent/chroma_db_claims/
+
+#Testing Scripts
+app_working.py
+agent_workflow.py
+decision_tree.txt
+ingest_data.py
+ollama_test.py
+ocr_module.py
+rag_setup.py
+temp_uploaded_bill.jpg
+test_imports.py
